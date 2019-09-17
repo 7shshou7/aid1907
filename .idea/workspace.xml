@@ -24,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/git_.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+              <caret column="10" selection-start-column="10" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -142,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568719374036</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1568720280928</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568720280928</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -230,7 +237,7 @@
     <entry file="file://$PROJECT_DIR$/git_.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
